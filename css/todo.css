@@ -1,0 +1,88 @@
+<!------------ todo Section ------------>
+<section id="todo" class="parallax">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 text-center">
+          <div class="wow fadeInUp section-title" data-wow-delay="0.6s">
+            <h2>VIT Clubs <small>Check out their Events</small></h2>
+          </div>
+      </div>
+
+      <div class="clearfix"></div>
+
+			<a href="#" >
+      <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="feature-thumb">
+          <div class="feature-icon">
+             <span><img class="img-responsive" src="images/ieee.gif" /></span>
+          </div>
+          <h3>IEEE</h3></a>
+          <p>IEEE is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity.</p>
+        </div>
+      </div>
+
+
+		<a href="#">
+      <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="feature-thumb">
+          <div class="feature-icon">
+            <span><img class="img-responsive" src="images/venturesity.png" /></span>
+          </div>
+          <h3>Venturesity</h3></a>
+          <p>Venturesity are a team of goofballs - comprising of developers, curators of ideas and intelligent designs, and operations specialists.</p>
+        </div>
+      </div>
+
+
+		<a href="#">
+      <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.9s">
+        <div class="feature-thumb">
+          <div class="feature-icon">
+            <span><img class="img-responsive" src="images/pravega.jpg" /></span>
+          </div>
+           <h3>Pravega</h3></a>
+           <p>>Pravega Racing is the official Formula-SAE combustion team of VIT University, Vellore, India The primary aim of the team is to design, manufacture, and test a single seater, formula-style race car and compete in the Formula Student/FSA.</p>
+        </div>
+      </div>
+
+
+			<a href="#">
+        <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="feature-thumb">
+          <div class="feature-icon">
+             <span><img class="img-responsive" src="images/mad.png" /></span>
+          </div>
+          <h3>MAD</h3></a>
+          <p>MAD mobilises young leaders towards ensuring equitable outcomes for children in need of care and protection.</p>
+        </div>
+      </div>
+
+
+			<a href="#">
+      <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="feature-thumb">
+          <div class="feature-icon">
+            <span><img class="img-responsive" src="images/tifac.png" /></span>
+          </div>
+          <h3>TIFAC</h3></a>
+          <p>TIFAC focusses on attaining global leadership, Technology Information, Forecasting and Assessment Council  of the department of science and technology has launched a mission embedded in its technology vision 2020.</p>
+        </div>
+      </div>
+
+
+		<a href="#">
+      <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.9s">
+        <div class="feature-thumb">
+          <div class="feature-icon">
+            <span><img class="img-responsive" src="images/adg.png" /></span>
+          </div>
+           <h3>ADG</h3></a>
+           <p>Apple Developers Group is a free initiative to assist developers in higher education institution , who intend to teach development for the iPhone, iPad etc.</p>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</section>
